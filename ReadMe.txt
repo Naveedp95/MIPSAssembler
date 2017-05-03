@@ -6,7 +6,7 @@ How to use the program:
 
 3) Once you run the program, a successfull compilation will play a sound and a output file
    with the results will be created in the same directory as your MARS. It will be called "Output.txt".
-	*Main program is named "Assembler-Eric"
+	
 Features of the Program:
 
 1) Reads a text file full of MIPS assembly instruction
